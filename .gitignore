@@ -92,3 +92,4 @@ out/
 static/game/default/**
 static/js/gse/**
 static/images/gse-loading.png
+package-lock.json
